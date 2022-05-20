@@ -3,7 +3,7 @@ import interfaces.AfterSuite;
 import interfaces.BeforeSuite;
 import interfaces.Test;
 
-public class SomthingTest {
+public class SomethingTest {
     @BeforeSuite
     public void beforeSuite() {
         System.out.println("Before Suite");
